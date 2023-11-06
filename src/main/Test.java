@@ -8,7 +8,6 @@ import gestione.RegistroVenditeSemplice;
 
 public class Test {
 	
-	
 	public static void main(String[] args) {
 		// Creazione dell'inventario
         Inventario inventario = new Inventario();
